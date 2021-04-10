@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "KlickbrickCLI"
 version = "0.1.0"
-description = ""
+description = "learning project form manning live project: 'Build an Extensible CLI with Python'"
 authors = ["Nicolas Gandriau <nicolas.gandriau@coxautoinc.com>"]
 
 [tool.poetry.dependencies]
